@@ -10,6 +10,6 @@ To that end, I've spent some time working on a technique for training Stable Dif
 
 You can see all of the "LastName" characters I've trained with this method on CivitAI. And credit where it's due - they were inspired by the Nobody series by Zovya. Thank you for the inspiration, Zovya!
 
-![](https://github.com/carlosmizabi/stablediffusion/blob/main/lastname_antonia.jpg])
+![Antonia](https://github.com/carlosmizabi/stablediffusion/blob/main/lastname_antonia.jpg?raw=true])
 
 
